@@ -7,7 +7,7 @@ int main()
     time_t t = time(NULL);
     struct tm tm = *localtime(&t);
 
-    int current_year = tm.tm_year + 1900; // counts every year from 1950.
+    int current_year = tm.tm_year + 1900; // counts every year from 1900.
 
     printf("The current year is       : %d", current_year);
 
