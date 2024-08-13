@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1665595163 source:c:\users\hacý osman\desktop\codeblocks projelerim\yeni 18\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1665596707 source:c:\users\hacý osman\desktop\codeblocks projelerim\hesaplama makineleri\yaþ hesaplama makinesi\main.c
+	<stdio.h>
+
+1665596707 source:c:\users\hacý osman\onedrive\masaüstü\codeblocks projelerim\hesaplama makineleri\yaþ hesaplama makinesi\main.c
+	<stdio.h>
+
+1723537467 source:c:\users\osman1\desktop\github için yayýnlanabilir projeler\yaþ hesaplama makinesi\main.c
+	<stdio.h>
+	<time.h>
+
